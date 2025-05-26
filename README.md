@@ -42,7 +42,7 @@
 
 ### 🌟 Featured Project
 
-#### 🪄 [Tasklight](https://github.com/imjamesonzeller/tasklight)
+#### 🪄 [Tasklight](https://github.com/imjamesonzeller/tasklight-v3)
 > A macOS app built with [Wails](https://wails.io) to quickly add to-do items with a slick Spotlight-style interface.  
 > Transparent, borderless, and always-on-top — a productivity tool that blends in perfectly with macOS.
 
