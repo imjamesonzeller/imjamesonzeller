@@ -37,6 +37,7 @@
 **Tools & Frameworks:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Wails](https://img.shields.io/badge/-Wails-2B2B2B?logo=go&logoColor=white)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ---
 
