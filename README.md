@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 First year student studying Mathematics and Computer Science at UIUC
+- 🎓 Second year student studying Mathematics and Computer Science at UIUC
 - 🧠 Passionate about problem-solving, clean code, and clever software  
 - 📚 Fantasy books are my go-to escape  
 - 🌐 Personal site: [jamesonzeller.com](https://jamesonzeller.com)  
