@@ -27,6 +27,7 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
@@ -38,6 +39,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Wails](https://img.shields.io/badge/-Wails-2B2B2B?logo=go&logoColor=white)
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
 ---
 
